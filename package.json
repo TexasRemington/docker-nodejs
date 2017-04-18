@@ -1,0 +1,30 @@
+{
+  "name": "docker-nodejs",
+  "version": "1.0.0",
+  "description": "Using nodejs and docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapineda/docker-nodejs.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "docker",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Marco P (http://www.owlery.club/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mapineda/docker-nodejs/issues"
+  },
+  "homepage": "https://github.com/mapineda/docker-nodejs#readme",
+  "dependencies": {
+    "express": "4.15.2"
+  }
+}
